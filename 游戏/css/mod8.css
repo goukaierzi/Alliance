@@ -2,8 +2,9 @@
 			position: relative;
 			font-size: 12px;
 			width: auto;
-			margin: 0;
+			margin-top: 0px;
 			background: #202020;
+			/*background-color: rgba(1,1,1,0.5);*/
 		}
 		
 		#footer .footerWrap {
@@ -127,4 +128,7 @@
 			font-size: inherit;
 			line-height: 1.6;
 			text-rendering: optimizeLegibility;
+		}
+		h3{
+			color:gold
 		}
