@@ -159,13 +159,13 @@
 				float: left;
 				font-size: 0;
 				margin: 0;
-				margin-left:-100px ;
+				margin-left:10px ;
 			}
 			
 			.navbars nav[role=main] .nav_left .nav_logo {
-				width: 245px;
+				width: 160px;
 				height: 62px;
-				background-image: url(../img/navbars/nav-logo-sm.png);
+				background-image: url(../img/king_王.jpg);
 				background-repeat: no-repeat;
 				background-position: center center;
 				display: inline-block;
